@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b2fbdb27-fb0f-42c5-8869-dfbef4669c6b" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tcpConnection/simpleTcpConnection.js" afterPath="$PROJECT_DIR$/tcpConnection/simpleTcpConnection.js" />
-    </list>
+    <list default="true" id="b2fbdb27-fb0f-42c5-8869-dfbef4669c6b" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -246,12 +243,12 @@
       <option name="presentableId" value="Default" />
       <updated>1499064494317</updated>
       <workItem from="1499064495899" duration="6324000" />
-      <workItem from="1499082040627" duration="550000" />
+      <workItem from="1499082040627" duration="1149000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6874000" />
+    <option name="totallyTimeSpent" value="7473000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="65" y="-4" width="1301" height="772" extended-state="6" />
